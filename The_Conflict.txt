@@ -1,2 +1,6 @@
 This is a conflict text file
+
 This is added from local Repository
+
+This is added From Github
+
