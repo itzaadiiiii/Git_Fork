@@ -1,4 +1,2 @@
 Myfile is an examplke for working with the fork
 Second line added
-
-Refresh the change
